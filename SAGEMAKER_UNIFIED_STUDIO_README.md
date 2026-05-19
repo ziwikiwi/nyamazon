@@ -74,9 +74,9 @@ The Model Registry in Amazon SageMaker Unified Studio enables users to catalog m
 
 Amazon Bedrock IDE in SageMaker Unified Studio is your all-in-one workspace for building GenAI applications without complex development setup. The tool provides a comprehensive environment where you can discover foundation models through the Model catalog, experiment with different input types in Playgrounds, and build sophisticated chat applications with custom guardrails and data sources. Using the Flow builder, you can create end-to-end AI workflows by connecting prompts and models, while the Prompt builder helps you create and manage your prompts effectively. The Amazon Bedrock IDE includes built-in model evaluation capabilities to assess performance, and a shared gallery for team collaboration on apps, guardrails, and functions. To get started, simply ensure your administrator has enabled GenAI tools access in the admin console.
 
-## Git
+## Project Storage
 
-Each project comes with a default git repository powered by AWS CodeConnections or a 3rd party repository such as GitHub as configured by your administrator. 
+Each project comes with a default storage powered by Amazon S3 or a 3rd party repository such as GitHub as configured by your administrator. 
 
 ## Data and Model catalog
 
